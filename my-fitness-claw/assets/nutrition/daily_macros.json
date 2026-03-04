@@ -1,0 +1,63 @@
+[
+  {
+    "date": "2026-03-03",
+    "calories": 402,
+    "protein": 18.2,
+    "carbs": 68,
+    "fats": 15.5,
+    "meals": [
+      {
+        "time": "18:03",
+        "name": "Protein Bar (Praline White Chocolate Peanut)",
+        "calories": 245,
+        "protein": 16.5,
+        "carbs": 28,
+        "fats": 15,
+        "micros": {
+          "vit_d3": 0.5,
+          "magnesium": 25,
+          "potassium": 120,
+          "zinc": 1.1,
+          "vit_b6": 0.15,
+          "vit_b12": 0.4,
+          "selenium": 6,
+          "vit_c": 0,
+          "vit_a": 40,
+          "vit_e": 1.2
+        }
+      },
+      {
+        "time": "18:43",
+        "name": "1 Orange & 1 Apple",
+        "calories": 157,
+        "protein": 1.7,
+        "carbs": 40,
+        "fats": 0.5,
+        "micros": {
+          "vit_d3": 0,
+          "magnesium": 22,
+          "potassium": 432,
+          "zinc": 0.2,
+          "vit_b6": 0.2,
+          "vit_b12": 0,
+          "selenium": 1,
+          "vit_c": 78,
+          "vit_a": 260,
+          "vit_e": 0.5
+        }
+      }
+    ],
+    "micros": {
+      "vit_d3": 0.5,
+      "magnesium": 47.0,
+      "potassium": 552.0,
+      "zinc": 1.3,
+      "vit_b6": 0.35,
+      "vit_b12": 0.4,
+      "selenium": 7.0,
+      "vit_c": 78.0,
+      "vit_a": 300.0,
+      "vit_e": 1.7
+    }
+  }
+]
